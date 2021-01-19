@@ -1,2 +1,3 @@
 # hello-world2
-Second try over the tutorial
+Second try 
+This is some additional text.
